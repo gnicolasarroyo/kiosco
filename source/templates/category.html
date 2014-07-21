@@ -1,0 +1,18 @@
+<div data-role="header">
+	<h1>TECNOLED</h1>
+</div>
+<div role="main" class="ui-content">
+	<h2>Categorias</h2>
+	<p>Seleccione una categoria</p>
+	<ul data-role="listview" data-inset="true" data-filter="true" data-filter-placeholder="Buscar en categorias">
+	<% _.each(categories, function (category) { %>
+    	<li>
+	    	<a href="#category/list/<%= category.key %>">
+	    		<img src="http://www.osram-latam.com/media/resource/hoverimage/340415/parathomled-superstar-classic-a60-adv-12w.jpg">
+	    		<h2><%= category.title %></h2>
+	    		<p><%= category.description %></p>
+	    	</a>
+	    </li>
+    <% }); %>
+    </ul>
+</div>

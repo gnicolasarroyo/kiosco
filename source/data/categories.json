@@ -1,0 +1,52 @@
+[
+	{
+		"key": "lamparas",
+		"title": "Lámparas",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "ingenieria-de-iluminacion-y-modulos",
+		"title": "Ingenieria de iluminación y Modulos",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "diseno-de-iluminacion-oled",
+		"title": "Diseño de iluminación OLED",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "luminarias-led-para-interiores",
+		"title": "Luminarias LED para interiores",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "luminarias-led-para-exteriores",
+		"title": "Luminarias LED para exteriores",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "indoor-ecg-for-led-modules-and-dimmers",
+		"title": "Indoor ECG for LED modules and dimmers",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "outdoor-ecg-for-led-modules",
+		"title": "Outdoor ECG for LED modules",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "sistemas-de-gestion-de-luz",
+		"title": "Sistemas de gestión de luz",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "iluminacion-especial",
+		"title": "Iluminación especial",
+		"description": "Descripción de esta categoria .."
+	},
+	{
+		"key": "led-iluminacion-para-vehiculos-y-de-bicicletas",
+		"title": "LED Iluminación para vehículos y de bicicletas",
+		"description": "Descripción de esta categoria .."
+	}
+]

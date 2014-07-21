@@ -1,0 +1,11 @@
+{
+  "name": "tecnoled.kiosco",
+  "version": "1.0.0",
+  "authors": [
+    "G. Nicolas Arroyo <g.nicolas.arroyo@gmail.com>"
+  ],
+  "dependencies": {
+    "jquery-mobile": "~1.4.3",
+    "backbone": "~1.1.2"
+  }
+}

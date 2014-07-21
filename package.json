@@ -1,0 +1,14 @@
+{
+  "name"            : "tecnoled.kiosco",
+  "version"         : "1.0.0",
+  "author"          : "G. Nicolas Arroyo <g.nicolas.arroyo@gmail.com>",
+  "dependencies" : {
+    "gulp"        : "*",
+    "gulp-coffee" : "*",
+    "gulp-concat" : "*",
+    "gulp-connect": "*",
+    "gulp-header" : "*",
+    "gulp-uglify" : "*",
+    "gulp-util"   : "*"
+  }
+}
